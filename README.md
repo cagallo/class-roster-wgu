@@ -1,6 +1,6 @@
 # CLASS ROSTER PROJECT C867 SCRIPTING AND PROGRAMMING - APPLICATIONS
 
-- clone down to your local and open with `Visual Studio Code` or `Xcode`
+- clone down to your local and open with `Visual Studio`(not VS Code) or `Xcode`
 - run program to see this output:
 
 <img width="523" alt="Screenshot 2024-05-08 at 1 12 48 PM" src="https://github.com/cagallo/class-roster-wgu/assets/78453792/1c92ed1a-569b-4d54-8bfb-25d20e373dd3">
