@@ -61,9 +61,6 @@ void Roster::parse(string studentData) {
     }
     
     add(studentId, firstName, lastName, emailAddress, age, daysInCourse1, daysInCourse2, daysInCourse3, degreeProgram);
-            
-            
-            
 }
 
 
