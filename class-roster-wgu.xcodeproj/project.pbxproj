@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		00F22D412BE9F80200CCDFAF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00F22D402BE9F80200CCDFAF /* main.cpp */; };
+		00F22D492BE9F88200CCDFAF /* roster.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00F22D472BE9F88200CCDFAF /* roster.cpp */; };
+		00F22D4C2BE9F8F000CCDFAF /* student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00F22D4A2BE9F8F000CCDFAF /* student.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,11 @@
 /* Begin PBXFileReference section */
 		00F22D3D2BE9F80200CCDFAF /* class-roster-wgu */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "class-roster-wgu"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00F22D402BE9F80200CCDFAF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		00F22D472BE9F88200CCDFAF /* roster.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = roster.cpp; sourceTree = "<group>"; };
+		00F22D482BE9F88200CCDFAF /* roster.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = roster.h; sourceTree = "<group>"; };
+		00F22D4A2BE9F8F000CCDFAF /* student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student.cpp; sourceTree = "<group>"; };
+		00F22D4B2BE9F8F000CCDFAF /* student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
+		00F22D4D2BE9F98B00CCDFAF /* degree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = degree.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +65,11 @@
 			isa = PBXGroup;
 			children = (
 				00F22D402BE9F80200CCDFAF /* main.cpp */,
+				00F22D472BE9F88200CCDFAF /* roster.cpp */,
+				00F22D482BE9F88200CCDFAF /* roster.h */,
+				00F22D4A2BE9F8F000CCDFAF /* student.cpp */,
+				00F22D4B2BE9F8F000CCDFAF /* student.h */,
+				00F22D4D2BE9F98B00CCDFAF /* degree.h */,
 			);
 			path = "class-roster-wgu";
 			sourceTree = "<group>";
@@ -119,6 +131,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00F22D492BE9F88200CCDFAF /* roster.cpp in Sources */,
+				00F22D4C2BE9F8F000CCDFAF /* student.cpp in Sources */,
 				00F22D412BE9F80200CCDFAF /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
