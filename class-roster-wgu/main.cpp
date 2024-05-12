@@ -19,6 +19,12 @@ int main() {
         classRoster.parse(studentData[i]);
     };
 
+    cout << "C867: Scripting and Programming Applications" << endl;
+    cout << "Cesare Gallo" << endl;
+    cout << "Student ID: 011021267" << endl;
+    cout << endl;
+    cout << endl;
+    
     // print all student data
     classRoster.printAll();
     cout << endl;
