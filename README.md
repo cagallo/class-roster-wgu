@@ -1,4 +1,4 @@
-# CLASS ROSTER PROJECT C867 SCRIPTING AND PROGRAMMING - APPLICATIONS
+# CLASS ROSTER PROJECT C867 SCRIPTING AND PROGRAMMING - APPLICATIONS SUMMWER 2024
 
 - clone down to your local and open with `Visual Studio`(not VS Code) or `Xcode`
 - run program to see this output:
